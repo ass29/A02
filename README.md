@@ -65,11 +65,11 @@ To integrate your WebStorm project with **GitHub** follow these steps:
 
 **2. Clone-** A copy of a **Git** **repository**. **Clones** contain all directories and files of a **repository**. This allows you to copy a **repository** from GitHub and work on those project files on your machine. After those changes are made, you can them push them onto the **repository** on GitHub.
    
-**3. Commit-** The saving of changes to a **repository** or codebase. When working on a project and making changes to it, you can commit those changes and save it to the **repository**. In other words, a commit allows you to save the chanegs your make to code. Commits also track the changes made throughout the **repository**'s history. 
+**3. Commit-** The saving of changes to a **repository** or codebase. When working on a project and making changes to it, you can commit those changes and save it to the **repository**. In other words, a commit allows you to save the changes your make to code. Commits also track the changes made throughout the **repository**'s history. 
    
 **4. Fetch-** Used to retrieve the latest/newest changes made to a remote **repository**. This includes all the commits made. Using git fetch does not modify your current branch. 
 
-**5. GIT-** A version control system that tracks changes made to a project/codebase worked on by many developers. **Git** allows developers to manage different versions of a **repository**, make changes to a **repository**, and **commmit** those changes. **GIT** runs locally on your machine and does not need an internet connection.
+**5. GIT-** A version control system that tracks changes made to a project/codebase worked on by many developers. **Git** allows developers to manage different versions of a **repository**, make changes to a **repository**, and **commit** those changes. **GIT** runs locally on your machine and does not need an internet connection.
     
 **6. Github-** A web-based platform used to store and host files. **GitHub ** allows for the storing of repositories over the cloud. **GitHub** also uses version control, which allows developers to manage their code and collaborate with others. 
     
@@ -83,7 +83,7 @@ To integrate your WebStorm project with **GitHub** follow these steps:
     
 **11. Remote-** A **repository** that is hosted on a web-server. It is different from a local **repository** because it lives at a separate location. 
     
-**12. **Repository**-** Contain a collection of directories and files for a project.
+**12. **Repository**-** Contains a collection of directories and files for a project.
     
 
 
@@ -99,6 +99,7 @@ To integrate your WebStorm project with **GitHub** follow these steps:
 4. [https://git-scm.com/downloads](url)
    
 5. [https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1077s](url)
+
 
 
 
