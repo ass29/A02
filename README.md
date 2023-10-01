@@ -1,4 +1,5 @@
-**Part 1: Directions on Using Git, GitHub, and WebStorm  **
+**Part 1: Directions on Using Git, GitHub, and WebStorm**
+
 WebStorm is a popular IDE used by web developers to make web applications. WebStorm supports many frontend technologies and frameworks. Follow these steps to use WebStorm and develop your first web application:
 
 1. To install WebStorm, go to the following URL: [https://www.jetbrains.com/webstorm/download/#section=windows](url)
@@ -20,30 +21,42 @@ To integrate your WebStorm project with GitHub follow these steps:
 
 **If you are new to using Git and GitHub, follow these steps to get started:**
 
-1. If you do not have an account with GitHub yet, go to this link and register: [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](url)
+1. If you do not have an account with GitHub yet, go to this link and register:
+   [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](url)
+   
 2. If you do not have Git, go to this link to download Git: [https://git-scm.com/downloads](url)
 3. Select your operating system and download the correct installer for your machine.
 4. Go through the installation process.
 5. After Git is installed, you need to configure your name and email address with Git. Type these commands:
 
-     git config --global user.name "<YourName>"
-     git config --global user.email "<YourEmail>"
-     git config --global init.default branch main
+     `git config --global user.name "<YourName>"`
+   
+     `git config --global user.email "<YourEmail>"`
+   
+     `git config --global init.default branch main`
+   
 
 7. To integrate your project files with Git, simply retrieve the file path your project files are located in.
-8. Change your directory in Git by typing cd <YourProjectDirectory>
-9. To put this into a repository, type this command:
+8. Change your directory in Git by typing
+
+
+     `cd <YourProjectDirectory>`
+
+   
+10. To put this into a repository, type this command:
+
         git clone
+    
    This will create a new repository for your project.
 
-11. Now on Github, you have to create a repository.
-12. Go to the option that says **New** and follow the steps for creating a repository on GitHub.
-13. If you followed the previous steps, you can also push your existing repository into GitHub instead.
-14. To add an existing repository into GitHub, type this command:
+12. Now on Github, you have to create a repository.
+13. Go to the option that says **New** and follow the steps for creating a repository on GitHub.
+14. If you followed the previous steps, you can also push your existing repository into GitHub instead.
+15. To add an existing repository into GitHub, type this command:
 
          git remote add origin <remoteRepositoryURL>
 
-15. For more information on how to use Git and Github, please refer to this highly informative video on Youtube: [https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1077s](url)
+16. For more information on how to use Git and Github, please refer to this highly informative video on Youtube: [https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1077s](url)
  
 
 
@@ -52,7 +65,12 @@ To integrate your WebStorm project with GitHub follow these steps:
 **References**
 
 1.[https://www.jetbrains.com/webstorm/download/#section=windows](url)
+
 2. [https://account.jetbrains.com/login](url)
+   
 3. [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](url)
+   
 4. [https://git-scm.com/downloads](url)
+   
 5. [https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1077s](url)
+   
